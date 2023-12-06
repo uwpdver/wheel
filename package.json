@@ -1,0 +1,19 @@
+{
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "@pixi/core": "^7.3.1",
+    "@pixi/filter-drop-shadow": "^5.2.0",
+    "@pixi/filter-glow": "^5.2.1",
+    "@pixi/graphics-extras": "7.3.1",
+    "@pixi/math-extras": "7.3.1",
+    "pixi.js": "7.3.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.21.3",
+    "parcel-bundler": "^1.6.1"
+  },
+  "main": "/index.html"
+}
